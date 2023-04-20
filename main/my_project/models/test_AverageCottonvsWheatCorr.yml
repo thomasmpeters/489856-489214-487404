@@ -1,9 +1,0 @@
-models:
-  - name: 5yearmodel
-    columns:
-      - name: id
-      - name: month
-      - name: commodity
-      - name: price
-      - name: currency
-      - name: symbol
