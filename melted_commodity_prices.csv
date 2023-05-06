@@ -1,4 +1,5 @@
 Month,Commodity,Price,"('Unit', 'Currency')",Symbol
+2023-03-01,Wheat,309.43,USD,$
 2023-02-01,Wheat,332.41,USD,$
 2023-01-01,Wheat,320.1,USD,$
 2022-12-01,Wheat,323.65,USD,$
@@ -429,6 +430,7 @@ Month,Commodity,Price,"('Unit', 'Currency')",Symbol
 1987-07-01,Wheat,0.0,USD,$
 1987-06-01,Wheat,0.0,USD,$
 1987-05-01,Wheat,0.0,USD,$
+2023-03-01,Corn,284.96,USD,$
 2023-02-01,Corn,298.25,USD,$
 2023-01-01,Corn,302.84,USD,$
 2022-12-01,Corn,302.24,USD,$
@@ -859,6 +861,7 @@ Month,Commodity,Price,"('Unit', 'Currency')",Symbol
 1987-07-01,Corn,0.0,USD,$
 1987-06-01,Corn,0.0,USD,$
 1987-05-01,Corn,0.0,USD,$
+2023-03-01,Cotton,95.39,USD,$
 2023-02-01,Cotton,99.43,USD,$
 2023-01-01,Cotton,100.31,USD,$
 2022-12-01,Cotton,100.89,USD,$
@@ -1289,6 +1292,7 @@ Month,Commodity,Price,"('Unit', 'Currency')",Symbol
 1987-07-01,Cotton,0.0,USD,$
 1987-06-01,Cotton,0.0,USD,$
 1987-05-01,Cotton,0.0,USD,$
+2023-03-01,BRENT,78.43,USD,$
 2023-02-01,BRENT,82.59,USD,$
 2023-01-01,BRENT,82.5,USD,$
 2022-12-01,BRENT,80.92,USD,$
@@ -1719,6 +1723,7 @@ Month,Commodity,Price,"('Unit', 'Currency')",Symbol
 1987-07-01,BRENT,0.0,USD,$
 1987-06-01,BRENT,0.0,USD,$
 1987-05-01,BRENT,0.0,USD,$
+2023-03-01,WTI,73.28,USD,$
 2023-02-01,WTI,76.83,USD,$
 2023-01-01,WTI,78.12,USD,$
 2022-12-01,WTI,76.44,USD,$
